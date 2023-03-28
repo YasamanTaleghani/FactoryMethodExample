@@ -1,5 +1,9 @@
-package com.example.transport;
+package com.example.factory;
 
+
+import com.example.factory.product.Consignment;
+import com.example.factory.product.Customer;
+import com.example.factory.product.TransportType;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,9 +1,10 @@
-package com.example.transport;
+package com.example.factory.transportation;
 
-public class BigTruck extends Truck {
+public class BigBoat extends Ship {
+
     @Override
     public void getDeliveryTime() {
-        System.out.println("Your product will be delivered within 5 week.");
+        System.out.println("Your product will be delivered within 4 week.");
     }
 
     @Override

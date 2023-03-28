@@ -1,4 +1,6 @@
-package com.example.transport;
+package com.example.factory.product;
+
+import com.example.factory.transportation.*;
 
 public class Customer {
     private Consignment consignment;

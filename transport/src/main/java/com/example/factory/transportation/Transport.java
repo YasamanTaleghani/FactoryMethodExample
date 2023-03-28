@@ -1,4 +1,4 @@
-package com.example.transport;
+package com.example.factory.transportation;
 
 public interface Transport {
     public void getDeliveryTime();

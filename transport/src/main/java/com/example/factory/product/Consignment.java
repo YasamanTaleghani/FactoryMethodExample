@@ -1,4 +1,4 @@
-package com.example.transport;
+package com.example.factory.product;
 
 public class Consignment {
     private Integer weight;
