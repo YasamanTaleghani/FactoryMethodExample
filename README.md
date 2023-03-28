@@ -1,4 +1,5 @@
 # Factory Method Example
+
 -In This little project, the example of a transpotation system is modeled from: https://refactoring.guru/design-patterns/factory-method
 -A Transport interface is created including two methods: getDeliveryTime(), getDeliveryType()
 -A Ship and a Truck abstract class implement the Transport interface.
